@@ -2,8 +2,9 @@
 raghavcodes1311/raghavcodes1311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://miro.medium.com/v2/resize:fit:1100/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 <h1 align="center">Hi 👋, I'm Raghav Sharma</h1>
+<h2 align="centre" >img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://miro.medium.com/v2/resize:fit:1100/0*7Q3yvSIv_t0ioJ-Z.gif">
 <h3 align="center">I am Raghav Sharma, a computer science engineer with a focus on cloud computing and Java. I bring a passion for problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavcodes1311&label=Profile%20views&color=0e75b6&style=flat" alt="raghavcodes1311" /> </p>
