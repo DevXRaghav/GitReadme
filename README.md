@@ -1,4 +1,7 @@
-<a href="https://app.daily.dev/devxraghav"><img src="https://api.daily.dev/devcards/bd447fd9da8243d59c71a57fadd969a8.png?r=w2q" width="400" alt="Raghav Sharma's Dev Card"/></a>
+<!---
+raghavcodes1311/raghavcodes1311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <h1 align="center">Hi 👋, I'm Raghav Sharma</h1>
 <h3 align="center">I am Raghav Sharma, a computer science engineer with a focus on cloud computing and Java. I bring a passion for problem-solving.</h3>
 
@@ -30,7 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavcodes1311&show_icons=true&locale=en&layout=compact" alt="raghavcodes1311" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavcodes1311&show_icons=true&locale=en" alt="raghavcodes1311" /></p>
-<!---
-raghavcodes1311/raghavcodes1311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/devxraghav"><img src="https://api.daily.dev/devcards/bd447fd9da8243d59c71a57fadd969a8.png?r=w2q" width="400" alt="Raghav Sharma's Dev Card"/></a>
